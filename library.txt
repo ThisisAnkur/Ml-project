@@ -1,0 +1,14 @@
+1 Ide: 
+	- jupyter notebook
+
+2 dependencies: 
+	1. numpy
+	2. pandas
+	3. scikit-learn
+	4. matplotlib
+	5. joblib
+
+3 models: 
+	1. Linear Regressior
+	2. Decision Tree model
+	3. Random Forest Regressior
